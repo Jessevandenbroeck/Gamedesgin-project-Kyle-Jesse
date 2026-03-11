@@ -2650,7 +2650,7 @@ Transform:
   m_GameObject: {fileID: 64524683}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.23, y: 3.71, z: 0}
+  m_LocalPosition: {x: 0.66, y: 6.52, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3260,7 +3260,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.63
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3797,7 +3797,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 64524683}
   centerPoint: {fileID: 1266794658}
   spawnRadius: 12
-  spawnRate: 2
+  spawnRate: 1.75
 --- !u!4 &1869504068
 Transform:
   m_ObjectHideFlags: 0
